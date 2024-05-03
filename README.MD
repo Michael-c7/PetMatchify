@@ -10,3 +10,4 @@
 - Have authentication & a wishlist feature
 - Want to incorporate an API and web scraping in some way
 - Use this API for the API/global search: https://rescuegroups.org/services/adoptable-pet-data-api/
+- Want to learn more about WebGL so lets throw that in their to
